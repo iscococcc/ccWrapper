@@ -5,7 +5,7 @@ Description: CC Wrapper
 Product: Microsoft Visual C++
 
 Copyright (c) Microsoft Corporation.  All rights reserved.
-
+***********020415280sample*********
 This source code is intended only as a supplement to Microsoft
 Development Tools and/or on-line documentation.  See these other
 materials for detailed information regarding Microsoft code samples.
