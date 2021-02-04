@@ -3,7 +3,7 @@ Name: CC2CL
 File: Input.cpp
 Description: CC Wrapper
 Product: Microsoft Visual C++
-*********Then haha CopyLeft (c)*************
+*********02041519*************
 Copyright (c) Microsoft Corporation.  All rights reserved.
 
 This source code is intended only as a supplement to Microsoft
